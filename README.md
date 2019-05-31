@@ -22,3 +22,6 @@ Create a class called Account which will be an abstract class for three other cl
 ## Files
 ### Sort csv file utility
 Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
+
+### Python Finance
+Refer to the readme inside the [directory]()

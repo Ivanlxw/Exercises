@@ -47,7 +47,7 @@ model.add(Dense(256))
 model.add(Activation('relu'))
 model.add(Dropout(0.20))
 model.add(Dense(num_classes))
-model.add(Activation("softmax"))
+model.add(Activation("softmax")) 
 
 print(model.summary())
 

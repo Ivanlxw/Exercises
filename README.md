@@ -21,10 +21,10 @@ Create a class called Account which will be an abstract class for three other cl
 
 ## Machine Learning
 ### Kaggle
-In the [Kaggle]() folder contains exercises involving datasets from kaggle
+In the [Kaggle](https://github.com/Ivanlxw/Exercises/tree/master/ML/Kaggle) folder contains exercises involving datasets from kaggle
 
 ### Exercises
-All simple exercises related to Machine Learning/Deep Learning will be inside here.
+All simple exercises related to Machine Learning/Deep Learning are inside here.
 
 ## Files
 ### Sort csv file utility

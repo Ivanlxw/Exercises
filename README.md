@@ -19,9 +19,16 @@ I found a mega project list and did some exercises from [karan's](https://github
 ### Bank Account Manager (variation)
 Create a class called Account which will be an abstract class for three other classes called CheckingAccount, SavingsAccount and BusinessAccount. Manage credits and debits from these accounts through an ATM style program.
 
+## Machine Learning
+### Kaggle
+In the [Kaggle]() folder contains exercises involving datasets from kaggle
+
+### Exercises
+All simple exercises related to Machine Learning/Deep Learning will be inside here.
+
 ## Files
 ### Sort csv file utility
 Reads a file of records, sorts them, and then writes them back to the file. Allow the user to choose various sort style and sorting based on a particular field.
 
-### Python Finance
+### Finance with Python
 Refer to the readme inside this [directory](https://github.com/Ivanlxw/Exercises/tree/master/PythonFinance)
